@@ -2,6 +2,16 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
+
+<!--Repo Badges-->
+![GitHub](https://img.shields.io/github/license/Mogakamo/my-portfolio)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Mogakamo/my-portfolio)
+![GitHub last commit](https://img.shields.io/github/last-commit/Mogakamo/my-portfolio)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/fbbfe004-c7f7-4e24-9f3d-0074dae5379e/deploy-status)](https://app.netlify.com/sites/codeswith-m/deploys)
+
+
+
+
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
