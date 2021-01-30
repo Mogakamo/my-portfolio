@@ -90,3 +90,8 @@ i{
     display: flex;
 }
 
+#header {
+    display: flex;
+    align-self: start;
+    
+}
