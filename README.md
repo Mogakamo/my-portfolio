@@ -6,7 +6,7 @@
 <!--Repo Badges-->
 ![GitHub](https://img.shields.io/github/license/Mogakamo/my-portfolio)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Mogakamo/my-portfolio)
-
+![GitHub last commit](https://img.shields.io/github/last-commit/Mogakamo/my-portfolio)
 
 
 
