@@ -80,3 +80,13 @@ i{
 .apple{
   color: #ccc;
 }
+
+/**Header */
+.container {
+    justify-content: space-around;    
+}
+
+.row {
+    display: flex;
+}
+
